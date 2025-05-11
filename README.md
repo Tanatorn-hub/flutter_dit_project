@@ -1,16 +1,15 @@
-# flutter_dit_project
+# โปรเจ็กก์ flutter_dit_project
 
-A new Flutter project.
+UI Screen Only for Welcome, Login and Singp
 
-## Getting Started
+##  ภาพ UI Screen
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/3e17e61a-fe8a-4f7e-829d-4c542e697fe3" width="300">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/user-attachments/assets/4c4bc34a-1874-48dc-bc03-d7eee020ddf6" width="300">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/c93bde99-fa19-474a-8318-553896a0633a" width="300">
+
+
+
