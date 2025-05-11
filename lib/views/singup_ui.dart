@@ -140,7 +140,7 @@ class _SingupUIState extends State<SingupUI> {
                     );
                   },
                   child: Text(
-                    'LOGIN',
+                    'SINGUP',
                     style: TextStyle(
                       color: Colors.white,
                     ),
