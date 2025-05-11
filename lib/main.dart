@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_dit_project/views/login_UI.dart';
+import 'package:flutter_dit_project/views/singup_ui.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'views/welcome_UI.dart';
 
@@ -25,7 +26,7 @@ class _FlutterDtiProjectState extends State<FlutterDtiProject> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: LoginUI(), //กำหนดหน้าจอแรกของแอป
+      home: WelcomeUI(), //กำหนดหน้าจอแรกของแอป
       theme: ThemeData(
         textTheme: GoogleFonts.kanitTextTheme(
           Theme.of(context).textTheme,
